@@ -13,3 +13,4 @@ A change from TFS side - using KB
 Another change from TFS side - using KB
 14
 15
+Change from Git side
