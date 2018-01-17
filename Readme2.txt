@@ -1,1 +1,0 @@
-Test of adding a new file to TFS via KB
