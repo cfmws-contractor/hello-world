@@ -15,3 +15,4 @@ Another change from TFS side - using KB
 15
 Change from Git side
 Another change from TFS side
+Testing update from Git side
