@@ -18,3 +18,4 @@ Another change from TFS side
 Testing update from Git side
 Another change
 Again
+Testing scenario where there is a change on both Git and TFS
