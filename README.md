@@ -19,3 +19,4 @@ Testing update from Git side
 Another change
 Again
 Testing scenario where there is a change on both Git and TFS 2
+1 Added on Git side
