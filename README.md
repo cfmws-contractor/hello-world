@@ -26,3 +26,4 @@ Git change 3
 Git change 4
 TFS change 1
 Testing with Windows Task Scheduler
+Testing with update to Git side
