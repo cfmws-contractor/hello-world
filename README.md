@@ -23,3 +23,4 @@ Testing scenario where there is a change on both Git and TFS 2
 Git change
 Git change 2
 Git change 3
+Git change 4
