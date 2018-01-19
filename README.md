@@ -22,3 +22,4 @@ Testing scenario where there is a change on both Git and TFS 2
 1 Added on Git side
 Git change
 Git change 2
+Git change 3
